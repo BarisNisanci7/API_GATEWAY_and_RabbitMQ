@@ -5,6 +5,9 @@
 
 This project was developed as part of the SE4458 course assignment to implement an API Gateway. It consolidates three previously created API endpoints and provides centralized access through a gateway. Docker support is optionally included.
 
+* [api_gateway](https://www.youtube.com/watch?v=v3a0C72Xleg)
+* [rabbitmq](https://www.youtube.com/watch?v=jhamZi-IM54)
+
 ## Features
 * API Gateway: Combines three API endpoints for centralized access.
 * Docker Support: Can be run inside a Docker container.
@@ -19,7 +22,7 @@ This project was developed as part of the SE4458 course assignment to implement 
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/BarisNisanci7/API_GATEWAY_and_RabbitMQl>
+git clone <https://github.com/BarisNisanci7/API_GATEWAY_and_RabbitMQ>
 cd API_GATEWAY
 ```
 2. Install Maven dependencies:
