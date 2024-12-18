@@ -5,6 +5,8 @@
 
 This project was developed as part of the SE4458 course assignment to implement an API Gateway. It consolidates three previously created API endpoints and provides centralized access through a gateway. Docker support is optionally included.
 
+## Videos
+
 * [api_gateway](https://www.youtube.com/watch?v=v3a0C72Xleg)
 * [rabbitmq](https://www.youtube.com/watch?v=jhamZi-IM54)
 
