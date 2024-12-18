@@ -2,26 +2,27 @@
 
 
 ## Project Description
-
 This project was developed as part of the SE4458 course assignment to implement an API Gateway. It consolidates three previously created API endpoints and provides centralized access through a gateway. Docker support is optionally included.
 
-## Videos
 
+## Videos
 * [api_gateway](https://www.youtube.com/watch?v=v3a0C72Xleg)
 * [rabbitmq](https://www.youtube.com/watch?v=jhamZi-IM54)
+
 
 ## Features
 * API Gateway: Combines three API endpoints for centralized access.
 * Docker Support: Can be run inside a Docker container.
 * User-Friendly: Simplifies API interactions through a single gateway.
 
+
 ## Project Structure
 * src/: Contains the main source code.
 * pom.xml: Maven configuration file.
 * Dockerfile: Configuration file for containerizing the project.
 
-## Setup Instructions
 
+## Setup Instructions
 1. Clone the repository:
 ```bash
 git clone <https://github.com/BarisNisanci7/API_GATEWAY_and_RabbitMQ>
@@ -50,9 +51,6 @@ docker run -p 8080:8080 api-gateway
 
 
 ## Assumptions
-
 * The project was built using Spring Boot.
 * URLs of the connected endpoints are manually configured.
 * The application was tested in a development environment only.
-
-## Video links will be Update
